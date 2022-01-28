@@ -1,0 +1,1 @@
+function (i,s,o,g,r,a,m){if(i[r])return;i[r]=i[r]||function(){(i['dataLayer']=i['dataLayer']||[]).push(arguments)};a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.googletagmanager.com/gtag/js?id=G-HJEX45D3FS','gtag');gtag('js', new Date());gtag('config','G-HJEX45D3FS')
